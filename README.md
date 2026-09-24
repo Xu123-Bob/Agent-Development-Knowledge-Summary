@@ -1,27 +1,27 @@
-# Agent开发知识分享
+# Agent Development Knowledge Sharing
 
-本项目是我基于自己在开发baize项目和日常使用Claude Code，总结而来的知识和经验
+This project is a collection of knowledge and experience I have summarized based on developing the baize project and my daily use of Claude Code.
 
-## 主要分为两个板块
-- Coding Agent Harness工程的知识汇总
-- Token经济学
+## Main Sections
+- A collection of knowledge on Coding Agent Harness engineering
+- Token Economics
 
-## 内容
-- Coding Agent Harness工程的知识主要涉及Agent框架和Loop，简要的拆解Coding Agent的内部结构，并且说明Loop的特点
-- Token经济学比较简短，并没有进行总结，主要是罗列我在相关书籍中，以及自己使用中得出的经验
+## Contents
+- The knowledge on Coding Agent Harness engineering mainly covers agent frameworks and the Loop. It briefly breaks down the internal structure of a Coding Agent and explains the characteristics of the Loop.
+- Token Economics is relatively brief and has not been summarized in depth. It mainly lists the experience I have gained from relevant books and from my own usage.
 
-## 文档格式
-两个部分的内容分别采用doc和docx的格式进行呈现
-- 中文版为doc
-- 英文版为docx
+## Format
+The contents of the two parts are presented in the formats of doc and docx respectively.
+- Chinese version is doc
+- English version is docx
 
-## 说明
-本项目中的两个文件的内容仅为本人个人观点，非权威指导建议，如果对你的开发有用，请自取并为我的项目点个Star，谢谢
+## Notes
+The contents of the two files in this project represent only my personal views and are not authoritative guidance. If they are useful for your development, please feel free to take them and give my project a Star. Thank you.
 
-## 参考数据
-- 《Claude Code实战》，人民邮电出版社出版
+## References
+- 《Claude Code实战》, published by Posts & Telecom Press
 
 <p align="center">
-  <a href="README.md">简体中文</a> |
+  <a href="README.zh.cn.md">简体中文</a> |
   <a href="README.en.md">English</a> 
 </p>
